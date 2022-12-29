@@ -1,0 +1,9 @@
+*~
+*.bak
+*.swp
+*.tmp
+*-bak
+*-cache
+*-backups/
+
+
