@@ -4,6 +4,9 @@ Project goal: Stabilized PSU with LM350 up to 3A and 33V output.
 
 WORK IN PROGRESS!
 
+# Required software
+
+KiCad 7, tested 7.0.8 under Windows 10
 
 # Used parts
 
