@@ -4,6 +4,7 @@
 *.tmp
 *-bak
 *-cache
+*.lck
 *-backups/
 # ERC report
 *.rpt
