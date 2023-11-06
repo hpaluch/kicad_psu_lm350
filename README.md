@@ -2,7 +2,16 @@
 
 Project goal: Stabilized PSU with LM350 up to 3A and 33V output.
 
-WORK IN PROGRESS!
+Created first prototype:
+- file: [outputs/pcbway/lm350r0-pcbway.zip](outputs/pcbway/lm350r0-pcbway.zip)
+- ordered on: https://www.pcbway.com/
+- parameters:
+  - 2 layers
+  - 83.8 x 149.9 mm
+  - thickness 1.6mm
+  - Green mask
+
+NOTE: Did not verified my prototype yet (planned around end of Dec 2023)
 
 # Required software
 
